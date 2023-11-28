@@ -35,4 +35,4 @@ git add models/b_age_30.yaml; git commit -m "added modelb"; git push -u origin m
 
 # Inference Demo
 
-[![Demo](https://img.youtube.com/SKaYIaQ7OPU/hqdefault.jpg)](https://www.youtube.com/embed/SKaYIaQ7OPU)
+[![Demo](https://img.youtube.com/vi/SKaYIaQ7OPU/hqdefault.jpg)](https://www.youtube.com/embed/SKaYIaQ7OPU)
